@@ -1,0 +1,19 @@
+.main-div{
+    padding-left: 99.600px;
+    padding-right: 99.600px;
+    margin-top: 48px;
+}
+
+.form-label{
+    font-weight: 500;
+}
+
+#sprint-input {
+    /* margin-top: 5px */
+ 
+    /* font-size: 12px; */
+  
+    top: 50px;
+    margin-top: 10px;
+    transition: "all 0.3s ease";
+}
